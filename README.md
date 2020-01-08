@@ -1,11 +1,8 @@
 <html  lang="en">
-User-agent: Googlebot
-Disallow: /nogooglebot/
 
-Panna Competition: http://www.kieranbrownpannacompetition.com/pannacompetition.xml
 <head>
 <meta charset="utf-8"/>
-<link rel='icon' href='favicon.ico' type='image/x-icon'/>
+<link rel="icon" href="favicon.ico" type="image/x-icon" sizes="16*16">
 <style>
 h1 {
   color: blue;
